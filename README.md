@@ -4,16 +4,6 @@ Introducing my final score prediction project. In this project, we will use mach
 
     # IFT6758 Repo Template
 
-This template provides you with a skeleton of a Python package that can be installed into your local machine.
-This allows you access your code from anywhere on your system if you've activated the environment the package was installed to.
-You are encouraged to leverage this package as a skeleton and add all of your reusable code, functions, etc. into relevant modules.
-This makes collaboration much easier as the package could be seen as a "single source of truth" to pull data, create visualizations, etc. rather than relying on a jumble of notebooks.
-You can still run into trouble if branches are not frequently merged as work progresses, so try to not let your branches diverge too much!
-
-Also included in this repo is an image of the NHL ice rink that you can use in your plots.
-It has the correct location of lines, faceoff dots, and length/width ratio as the real NHL rink.
-Note that the rink is 200 feet long and 85 feet wide, with the goal line 11 feet from the nearest edge of the rink, and the blue line 75 feet from the nearest edge of the rink.
-
 <p align="center">
 <img src="./figures/nhl_rink.png" alt="NHL Rink is 200ft x 85ft." width="400"/>
 <p>
